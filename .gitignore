@@ -1,0 +1,12 @@
+# Claude
+.claude/
+
+# Go binary
+hurl_demo
+*.exe
+
+# Hurl reports
+report/
+report.xml
+report.tap
+report.json
